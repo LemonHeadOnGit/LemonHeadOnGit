@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+If you have experience in programming Apache servers, and experience with using (my)SQL, marry me immediately (Because it's much better than general social interaction).
+
+#### Refer to me by using the following pronouns:
+- .PNG
+- .EXE
+- .ZIP
+
+#### Delphi programmer since 2020
+>(Even though basically no-one uses it professionally anymore.)
+
+#### Owner of LemonPack
+> A very cool Minecraft modpack they you definitely shouldn't play. Yet.
+
+### In short:
 
 - 🔭 I’m currently working on things
 - 🌱 I’m currently learning languages
@@ -6,7 +21,10 @@
 - 🤔 I’m looking for help with life
 - 💬 Ask me about Joe
 - 📫 How to reach me: yourm.om@hotmail.com
-- 😄 Pronouns: .PNG / .EXE
 - ⚡ Fun fact: Access violation at read address 0xC0006780
 
-## *TESTEMONIAL.PN*
+-----
+
+> Remember, it is better to piss in the sink, then to sink in the piss.
+>
+> ~LemonHeadOnGit
