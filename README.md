@@ -1,30 +1,30 @@
-# Evening :^)
+# Welcome :^)
 
-If you have experience in programming Apache servers, and experience with using (my)SQL, marry me immediately (Because it's much better than general social interaction).
+I'm a junior programmer slowly learning new things over time!
 
-#### Refer to me by using the following pronouns:
-- .PNG
-- .EXE
-- .ZIP
+### Things to know:
 
-#### Delphi programmer since 2020
->(Even though basically no-one uses it professionally anymore.)
+#### It does not matter what you refer to me as c:
+You can use any pronouns and whatnot!
 
-#### Owner of LemonPack
-> A very cool Minecraft modpack they you definitely shouldn't play. Yet.
+#### Language Specialisations
+- Python
+- Java
+- (my)SQL
 
-#### Check out my little [company thing](https://github.com/Universal-Blaster-Studios)
-> It's a nice place, you should go there.
+#### Learning these languages
+- C#
+- C/C++
+- Rust
 
-### In short:
+#### Some personal Projects
+- OneControl : A minecraft mod that aims to support all controllers and all possible keybinds.
+- PyPass : A python password generator and manager.
 
-- 🔭 I’m currently working on things
-- 🌱 I’m currently learning languages
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with life
-- 💬 Ask me about Joe
-- 📫 How to reach me: yourm.om@hotmail.com
-- ⚡ Fun fact: Access violation at read address 0xC0006780
+### Closing Words
+
+- I am looking for help with OneControl (I have no prior experience with Minecraft modding).
+- Fun fact: Access violation at read address 0xC0006780
 
 -----
 
